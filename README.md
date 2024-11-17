@@ -1,4 +1,4 @@
-# Hi, I am Hactus and I don't know how MarkDown works :)
+<h1>👍</h1>
 
 - not avalible from Monday-Friday
 - <a href="https://C4ctus72.github.io">Website</a>
