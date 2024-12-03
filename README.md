@@ -1,8 +1,3 @@
-<h1>👍</h1>
-
-- not avalible from Monday-Friday
-- <a href="https://C4ctus72.github.io">Website</a>
-
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=C4ctus72&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
