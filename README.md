@@ -1,2 +1,2 @@
 # >:(
-I want to make something impressive! And nothing will stop me!!!
+Nothing will stop me!!!
