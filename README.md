@@ -1,5 +1,3 @@
-![doggo](https://media.tenor.com/9TsiJq--SsEAAAAj/doge-dance.gif)
-
 <hr />
 <pre>
  ___  ___  ________  ________ _________  ___  ___  ________   ________
@@ -13,10 +11,7 @@
 </pre>
 <hr />
 # hello
-
-Svelte
-Scss
-Nix
-(Rust)
+Svelte Scss Nix (Rust)
 
 Please read my [portfolio](https://hactuss-portfolio.vercel.app) if you wanna know more about me. I've already written down all the relavent stuff and I don't wanna write it again.
+![doggo](https://media.tenor.com/9TsiJq--SsEAAAAj/doge-dance.gif)
