@@ -18,3 +18,5 @@ Svelte, Nix and Markdown
 Please read my [portfolio](https://hactuss-portfolio.vercel.app) if you wanna know more about me. I've already written down all the relavent stuff and I don't wanna do that again.
 
 ![doggo](https://media.tenor.com/9TsiJq--SsEAAAAj/doge-dance.gif)
+
+![Top Languages](https://ghstats.dev/api/langs?username=hactuss&hide_title=true&max_langs=12&layout=horizontal_list)
